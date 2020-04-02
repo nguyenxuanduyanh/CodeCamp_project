@@ -1,0 +1,25 @@
+body {
+    background-image: url('/assets/images/slide_01.jpg');
+}
+
+.kaka {
+    margin-top: 3em;
+}
+
+header {
+    position: relative;
+}
+
+p {
+    color: crimson;
+    font-size: 2;
+}
+
+.kaka {
+    margin-left: 30em;
+}
+
+.sign-up {
+    margin-right: 11cm;
+    border: gray solid;
+}
